@@ -1,1 +1,1 @@
-<center><h1>HI</h1>HI</h1></center>
+<h1><center>HI</center></h1>
